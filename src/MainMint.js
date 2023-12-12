@@ -66,8 +66,7 @@ const MainMint = ({ accounts, setAccounts }) => {
                             fontSize="30px"
                             letterSpacing="-5.5%"
                             fontFamily="VT323"
-                            textShadow="0 2px 2px #000000">It is 2078, Can the RoboPunks N
-                            FT save humans from destructive rampant NFT speculation? Mint RoboPunks to find out.
+                            textShadow="0 2px 2px #000000">It is 2078, Can the RoboPunks NFT save humans from destructive rampant NFT speculation? Mint RoboPunks to find out.
                         </Text>
                     </div>
                     {
